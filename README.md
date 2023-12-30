@@ -42,3 +42,6 @@ Follow those steps to clone the project and start with it:
 <h2 id="contact">Contact</h2>
 Please, if you are interested about my projects and if you have any doubts, questions or wants to work with me, contact me on <a href="https://www.linkedin.com/in/gustavodiasdsc/">Linkedin</a> or email: gustavodiasdsc@gmail.com.
 
+Thanks!
+
+<img src="/doc/dance.gif">
