@@ -7,14 +7,14 @@ CineLife, like all good cinemas, wants a good movies catologue for your clients.
 
 <h2>Contents</h2>
 <ul>
-  <li><a href="#features">Features</a></li>
-  <li><a href="#requirements">Requirements</a></li>
-  <li><a href="installation">Installation</a></li>
-  <li><a href="#usage">Usage</a></li>
-  <li><a href="#contributing">Contributing</a></li>
-  <li><a href="#license">License</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#acknowleadgements">Acknowledgements</a></li>
+  <li>Features</li>
+  <li>Requirements</li>
+  <li>Installation</li>
+  <li>Usage</li>
+  <li>Contributing</li>
+  <li>License</li>
+  <li>Contact</li>
+  <li>Acknowledgements</li>
 </ul>
 
 <h2 id="features">Features</h2>
