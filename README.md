@@ -29,7 +29,7 @@ But you need that to load this application on your computer:
   </li>
   <li>
     <strong>IDE - IntelliJ Idea/ VS Code:</strong> Both of these IDEs have my respect, but with Java Projects, it's a good suggestion use <a href="https://www.jetbrains.com/pt-br/idea/">IntelliJ Idea by JetBrains.</a>
-    <img src="/doc/ide">
+    <img src="/doc/ide.jpg">
   </li>
 </ol>
 <h2 id="installation">Installation</h2>
