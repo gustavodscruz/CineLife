@@ -1,9 +1,11 @@
 <center><h1>CineLife</h1></center>
 Do you want to watch some movie??
 CineLife, like all good cinemas, wants a good movies catologue for your clients. This catologue are build with different technologies:
-- Spring Framework
-- MongoDB
-- React.js Framework
+<ul>
+  <li>Spring Framework</li>
+  <li>MongoDB</li>
+  <li>React.js Framework</li>
+</ul>
 
 <h2>Contents</h2>
 <ul>
